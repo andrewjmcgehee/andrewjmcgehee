@@ -18,4 +18,5 @@ check out all these logos:
 <br/>
 
 i haven't worked for most of these. but i think it makes my profile look more hirable. the first
-logo is mine.
+logo is mine BTW. i use neovim BTW. i also used to use arch BTW. but now i'm just a normy on a mac
+BTW.
