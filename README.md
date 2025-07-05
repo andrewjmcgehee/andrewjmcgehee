@@ -38,3 +38,5 @@ future flavors might be:
 - 3D modeling and aluminum CNC
 - learning zig
 - youtubing
+
+> in the expert's mind there are few possibilities. in the beginner's &mdash; many.
