@@ -64,5 +64,5 @@ future flavors might be:
 
 > in the expert's mind there are few possibilities. in the beginner's &mdash; many.
 > 
-> &mdash; _shunryu suzuki_
+> &mdash; _shunryu suzuki_ (paraphrased)
 
