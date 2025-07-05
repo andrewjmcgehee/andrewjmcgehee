@@ -41,8 +41,6 @@ future flavors might be:
 
 ## inspirational quotes
 
-<hr/>
-
 > hey, you know, you can just do stuff. like, you don't need anybody's permission or anything. you
 > just, yeah, you just kinda come up with weird stuff you wanna go do you can just go do it.
 > 
@@ -54,7 +52,7 @@ future flavors might be:
 > 
 > &mdash; _rodney douglas norman_
 
-<hr/>
+<br/>
 
 > have you ever had a dreams that... s... that you um you had... you d... you would you could...
 > you'd do... you wi.. you wants... you... you could do so... you... you'd do... you could... you...
@@ -62,7 +60,7 @@ future flavors might be:
 > 
 > &mdash; _joe cirkiel_
 
-<hr/>
+<br/>
 
 > in the expert's mind there are few possibilities. in the beginner's &mdash; many.
 > 
