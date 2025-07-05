@@ -40,3 +40,5 @@ future flavors might be:
 - youtubing
 
 > in the expert's mind there are few possibilities. in the beginner's &mdash; many.
+> 
+> &mdash; _shunryu suzuki_
