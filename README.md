@@ -4,4 +4,14 @@ i'm a software engineer that is learning to take myself less seriously. lately i
 
 check out all these logos:
 
+<p align="center">
+  <img src="assets/claude.png" height="auto" width="64"/>&emsp;&emsp;
+  <img src="assets/apple.png" height="auto" width="64"/>&emsp;&emsp;
+  <img src="assets/google.png" height="auto" width="64"/>&emsp;&emsp;
+  <img src="assets/meta.png" height="auto" width="64"/>&emsp;&emsp;
+  <img src="assets/openai.png" height="auto" width="64" />&emsp;&emsp;
+  <img src="assets/tesla.png" height="auto" width="64" />
+</p>
+<br/>
+
 i haven't worked for most of these. but i think it makes my profile look more hirable.
