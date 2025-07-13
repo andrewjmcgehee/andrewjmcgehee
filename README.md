@@ -19,7 +19,8 @@ in case that hasn't convinced you, o mighty recruiter, i'd just like to say...
 
 i use neovim BTW. i also installed arch once BTW.
 
-my favorite moments in life have been when i knew nothing and learned a skill for the first time.
+
+more seriously, my favorite moments in life have been when i knew nothing and learned a skill for the first time.
 i'm constantly chasing that. i spend a lot of time training jiu jitsu, writing code, drinking
 coffee, and exploring whatever my current obsession might be. right now it's split keyboards, colemak,
 and learning to touch type.
