@@ -2,6 +2,7 @@
 
 i'm a software engineer learning to take myself less seriously.
 
+<br/>
 <p align="center">
   <img src="assets/andrewjmcgehee.webp" height="auto" width="64"/>&emsp;&emsp;
   <img src="assets/claude.png" height="auto" width="64"/>&emsp;&emsp;
@@ -14,7 +15,9 @@ i'm a software engineer learning to take myself less seriously.
 <br/>
 
 i haven't worked for most of these companies – only google, really. i think it offers an appealing illusion that i might have, though. 
-in case that hasn't convinced you, i use neovim BTW. i also installed arch once BTW.
+in case that hasn't convinced you, o mighty recruiter, i'd just like to say...
+
+i use neovim BTW. i also installed arch once BTW.
 
 my favorite moments in life have been when i knew nothing and learned a skill for the first time.
 i'm constantly chasing that. i spend a lot of time training jiu jitsu, writing code, drinking
