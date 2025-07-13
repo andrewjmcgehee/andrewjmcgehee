@@ -13,8 +13,8 @@ i'm a software engineer learning to take myself less seriously.
 </p>
 <br/>
 
-i haven't worked for most of these companies – only google, really. i think it offers the appealing illusion that i have, though. 
-in case that hasn't convinced you, i use neovim BTW. i also used to use arch BTW. but now i'm just a normy on macos.
+i haven't worked for most of these companies – only google, really. i think it offers an appealing illusion that i might have, though. 
+in case that hasn't convinced you, i use neovim BTW. i also installed arch once BTW.
 
 my favorite moments in life have been when i knew nothing and learned a skill for the first time.
 i'm constantly chasing that. i spend a lot of time training jiu jitsu, writing code, drinking
