@@ -1,10 +1,6 @@
 # yo ✌️
 
-i'm a software engineer that is learning to take myself less seriously. lately i've been enjoying
-learning colemak and optimizing my vim flow so that i can shave a few nanoseconds off every
-keystroke - i'm gonna be lightyears ahead of all these vibe-coders in no time. 
-
-check out all these logos:
+i'm a software engineer learning to take myself less seriously.
 
 <p align="center">
   <img src="assets/andrewjmcgehee.webp" height="auto" width="64"/>&emsp;&emsp;
@@ -17,21 +13,20 @@ check out all these logos:
 </p>
 <br/>
 
-i haven't worked for most of these. but i think it makes my profile look more hirable. the first
-logo is mine BTW. i use neovim BTW. i also used to use arch BTW. but now i'm just a normy on a mac
-BTW.
+i haven't worked for most of these companies – only google, really. i think it offers the appealing illusion that i have, though. 
+in case that hasn't convinced you, i use neovim BTW. i also used to use arch BTW. but now i'm just a normy on macos.
 
 my favorite moments in life have been when i knew nothing and learned a skill for the first time.
 i'm constantly chasing that. i spend a lot of time training jiu jitsu, writing code, drinking
-coffee, and exploring whatever my current obsession of the month is. right now it's split keyboards
-and learning to actually touch type.
+coffee, and exploring whatever my current obsession might be. right now it's split keyboards, colemak,
+and learning to touch type.
 
-past flavors have been:
+past flavors:
 - designing and building guitar pedals
 - chess
 - learning russian
 - playing the spoons
-- rewriting my blog with HTMX and Go
+- playing around with go
 
 future flavors might be:
 - building my family a highly available home media k8s cluster
