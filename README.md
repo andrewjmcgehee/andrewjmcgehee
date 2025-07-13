@@ -5,13 +5,8 @@ i'm a software engineer learning to take myself less seriously. if you want to k
 ## inspirational quotes
 
 > hey, you know, you can just do stuff. like, you don't need anybody's permission or anything. you
-> just, yeah, you just kinda come up with weird stuff you wanna go do you can just go do it.
-> 
-> okay. 
->
-> go be weird.
->
-> okay, bye.
+> just, yeah, you just kinda come up with weird stuff you wanna go do you can just go do it. okay...
+> go be weird... okay, bye.
 > 
 > &mdash; _rodney douglas norman_
 
