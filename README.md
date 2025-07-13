@@ -4,13 +4,13 @@ i'm a software engineer learning to take myself less seriously.
 
 <br/>
 <p align="center">
-  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg"><img src="assets/andrewjmcgehee.webp" height="auto" width="64"/></a>&emsp;&emsp;
-  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg"><img src="assets/claude.png" height="auto" width="64"/></a>&emsp;&emsp;
-  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg"><img src="assets/apple.png" height="auto" width="64"/></a>&emsp;&emsp;
-  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg"><img src="assets/google.png" height="auto" width="64"/></a>&emsp;&emsp;
-  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg"><img src="assets/meta.png" height="auto" width="64"/></a>&emsp;&emsp;
-  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg"><img src="assets/openai.png" height="auto" width="64" /></a>&emsp;&emsp;
-  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg"><img src="assets/tesla.png" height="auto" width="64" /></a>
+  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg?autoplay=1"><img src="assets/andrewjmcgehee.webp" height="auto" width="64"/></a>&emsp;&emsp;
+  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg?autoplay=1"><img src="assets/claude.png" height="auto" width="64"/></a>&emsp;&emsp;
+  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg?autoplay=1"><img src="assets/apple.png" height="auto" width="64"/></a>&emsp;&emsp;
+  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg?autoplay=1"><img src="assets/google.png" height="auto" width="64"/></a>&emsp;&emsp;
+  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg?autoplay=1"><img src="assets/meta.png" height="auto" width="64"/></a>&emsp;&emsp;
+  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg?autoplay=1"><img src="assets/openai.png" height="auto" width="64" /></a>&emsp;&emsp;
+  <a href="https://youtu.be/xvFZjo5PgG0?si=avvPuUwa6PGxX3tg?autoplay=1"><img src="assets/tesla.png" height="auto" width="64" /></a>
 </p>
 <br/>
 
