@@ -1,6 +1,6 @@
 # yo ✌️
 
-googler -> xoogler -> founding engineer -> googler -> xoogler -> [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [posthog](https://posthog.com). 
+googler -> xoogler -> founding engineer -> googler -> xoogler -> [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [posthog](https://posthog.com)
 
 it's all about the journey or the friends we made along the way or something.
 
