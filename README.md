@@ -12,4 +12,6 @@ it's all about the journey or the friends we made along the way or something.
 > 
 > &mdash; _rodney douglas norman_
 
+<br/>
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=andrewjmcgehee.andrewjmcgehee)
