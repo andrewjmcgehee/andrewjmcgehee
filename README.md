@@ -1,6 +1,8 @@
 # yo ✌️
 
-i'm a software engineer learning to take myself less seriously. if you want to know more about me, check out my [website](https://andrewjmcgehee.com) or [watch this video](https://youtu.be/dQw4w9WgXcQ?si=oBgoCQwZpZQ0Zz_o)
+googler -> xoogler -> founding engineer -> googler -> xoogler -> [product engineer](https://posthog.com/blog/what-is-a-product-engineer) at [posthog](https://posthog.com). 
+
+it's all about the journey or the friends we made along the way or something.
 
 <br/>
 
@@ -9,3 +11,5 @@ i'm a software engineer learning to take myself less seriously. if you want to k
 > go be weird... okay, bye.
 > 
 > &mdash; _rodney douglas norman_
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=andrewjmcgehee.andrewjmcgehee)
